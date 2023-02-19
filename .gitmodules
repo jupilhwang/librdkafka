@@ -1,0 +1,4 @@
+[submodule "delphi/DelphiKafkaClient"]
+	path = delphi/DelphiKafkaClient
+	url = https://github.com/norgepaul/DelphiKafkaClient
+	branch = master
