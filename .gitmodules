@@ -2,3 +2,7 @@
 	path = delphi/DelphiKafkaClient
 	url = https://github.com/norgepaul/DelphiKafkaClient
 	branch = master
+[submodule "delphi/Chet"]
+	path = delphi/Chet
+	url = https://github.com/neslib/Chet
+	branch = master
